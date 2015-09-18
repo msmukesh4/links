@@ -1,0 +1,48 @@
+Local Press Co.
+__________________________________
+
+Local Press Co allows individuals to report and follow news from in & around their neighbourhood.
+More often than not, the coverage of local or neighbourhood news is scarce due to its lack of relevance to the masses. Local stories like accidents, robberies, fires etc. have a greater possibility of featuring on your social media feed than traditional news outlets. In either case, the news seldom reaches the right user because the traditional media rarely features it and social media makes it impossible to segregate news from the never ending flow of content.
+
+That’s where we come in. We make reporting news easy, wrap it in a neat package and serve news to relevant users. Here’s a how it all comes together on the app:
+
+* Individuals to report local news as it breaks
+* We serve these news stories to nearby users
+* Users use ‘vouch’ & ‘dismiss’ actions to validate accuracy
+
+App Features:
+
+* Location Radius – Choose how local you want your news ranging from 1 km to the entire city
+* Notifications – Receive alerts when you subscribe to reports or when users engage with your reports
+* Battery Saver – Continue receiving updates from your default location even with location services turned off
+* Trust Score – Become a trusted reporter by adding accurate news stories
+* Filter Content – Decide the categories that interest you and only get news from those
+* Easy Share – Simultaneously post your reports on Twitter & Facebook or share across platforms
+
+At Local Press Co, we don’t cover global news. We focus on smaller, but relevant, segment of news and make it accessible to everyone. Missed out on any local news lately? Download and find out.
+
+Note: As a crowdsourced platform, we are completely dependent on our users for news. So if there is no news from your area, please inform us. We'll do our best to try and build an active reporter community there.
+___________________________________________________________________________________________________
+
+First open when install
+- opens the Splash Image
+- Gives you two options to set your current location {gives two options}
+		* Use the current location 
+		* Set the location manually
+			-autoComplete text view is provided in the action bar to enter Location with {BackButton-Onaction bar,cancel Button }
+				which  is powerd by google
+			-after Entering location it takes you to its main activity(Contains a Viewpager -with 2 fragments and a circular manu  item at the bottom)
+			Fragments
+				* Top Reports
+				* Recent Reports
+			Circular Menu - It will check that you have registered or not if not redirect you to registration page 
+				*
+
+			Login menu
+			 	* You can reister using Facebook
+			 	* You can reister using Gmail
+			 	* you can fill 
+
+
+
+
