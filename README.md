@@ -15,3 +15,5 @@ Boss :
   9830417377
 
 Backcover - https://paytm.com/shop/p/amzer-back-cover-for-htc-evo-3d-amzer_91182_null_transparentwhite_211
+
+Aviry Image Editor :https://developers.aviary.com/docs/android/setup-guide#
